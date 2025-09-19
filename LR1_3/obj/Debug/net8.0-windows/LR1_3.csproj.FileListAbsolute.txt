@@ -1,0 +1,17 @@
+D:\HPK\oop\lr1\LR1_3\bin\Debug\net8.0-windows\LR1_3.exe
+D:\HPK\oop\lr1\LR1_3\bin\Debug\net8.0-windows\LR1_3.deps.json
+D:\HPK\oop\lr1\LR1_3\bin\Debug\net8.0-windows\LR1_3.runtimeconfig.json
+D:\HPK\oop\lr1\LR1_3\bin\Debug\net8.0-windows\LR1_3.dll
+D:\HPK\oop\lr1\LR1_3\bin\Debug\net8.0-windows\LR1_3.pdb
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.Form1.resources
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.Properties.Resources.resources
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.csproj.GenerateResource.cache
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.AssemblyInfoInputs.cache
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.AssemblyInfo.cs
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.csproj.CoreCompileInputs.cache
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.dll
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\refint\LR1_3.dll
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.pdb
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\LR1_3.genruntimeconfig.cache
+D:\HPK\oop\lr1\LR1_3\obj\Debug\net8.0-windows\ref\LR1_3.dll
